@@ -262,7 +262,7 @@ pre > code {
 }
 .round {
     border-radius: 200px; /* Радиус скругления */
-    width: 400px;
-    height: 250px;
+    width: 350px;
+    height: 200px;
     border-radius: 50%;
        }
